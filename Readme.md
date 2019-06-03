@@ -1,4 +1,4 @@
-
+# PREDICT HANDWRITTEN DIGITS (0-9) USING MULTILAYER PERCEPTRON 
 # Neural Network (Multilayer Perceptron)
 
 source : https://scikit-learn.org/stable/modules/neural_networks_supervised.html
