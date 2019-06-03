@@ -401,6 +401,8 @@ for plot_index in range(numbers_to_display):
 plt.subplots_adjust(hspace=0.5, wspace=0.5)
 plt.show()
 ```
+![alt text](https://github.com/oilmcut2019/final-assigment-advance-programing-2019-10oclock90/blob/master/Data%20Sample.PNG)
+
 
 ### Split the Data Into Training and Test Sets
 
@@ -469,7 +471,7 @@ plt.show()
 ```
 
 
-![png](output_13_0.png)
+![alt text](https://github.com/oilmcut2019/final-assigment-advance-programing-2019-10oclock90/blob/master/Gradient%20Descent.PNG)
 
 
 ### Illustrate Hidden Layers Perceptrons
@@ -514,7 +516,7 @@ plt.show()
 ```
 
 
-![png](output_15_0.png)
+![alt text](https://github.com/oilmcut2019/final-assigment-advance-programing-2019-10oclock90/blob/master/Perceptrons.PNG)
 
 
 ### Calculate Model Training Precision
@@ -581,6 +583,5 @@ plt.subplots_adjust(hspace=0.5, wspace=0.5)
 plt.show()
 ```
 
-
-![png](output_19_0.png)
+![alt text](https://github.com/oilmcut2019/final-assigment-advance-programing-2019-10oclock90/blob/master/Result.PNG)
 
